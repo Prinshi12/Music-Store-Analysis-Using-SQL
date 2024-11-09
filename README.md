@@ -16,7 +16,9 @@ The dataset consists of 11 tables, which include:
 * Track ID: A dedicated table for track identifiers.
 * Album: Data about music albums.
 
-.
+# Tools Used
+
+![image](https://github.com/user-attachments/assets/0d86507e-7f55-4484-b617-97b3d0f74535)
 
 
 
