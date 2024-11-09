@@ -20,7 +20,9 @@ The dataset consists of 11 tables, which include:
 
 ![image](https://github.com/user-attachments/assets/0d86507e-7f55-4484-b617-97b3d0f74535)
 
-
+# Tools Used
+* PostgreSQL
+* pgAdmin4
 
 
 
