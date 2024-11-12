@@ -18,7 +18,7 @@ The dataset consists of 11 tables, which include:
 
 # Schema
 
-![image](https://github.com/user-attachments/assets/0d86507e-7f55-4484-b617-97b3d0f74535)
+<img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/ba351818-f2c7-44c4-89e2-dd0b590a6c8d">
 
 # Tools Used
 * PostgreSQL
